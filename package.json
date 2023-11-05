@@ -1,5 +1,4 @@
 {
-  "homepage": "http://mustafatalha222.github.io/counter-app",
   "name": "counter-app",
   "private": true,
   "version": "0.0.0",
@@ -10,14 +9,11 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "test": "jest",
-    "test:watch": "jest --watchAll",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "test:watch": "jest --watchAll"
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^6.18.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.1.4",
