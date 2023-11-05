@@ -1,7 +1,7 @@
 # Counter App
 
 ## APP is deployed on GitHub Pages
-- [View live Deme: E-Commerce Link](https://mustafatalha222.github.io/counter-app)
+- [View live Deme: Counter App Link](https://mustafatalha222.github.io/counter-app)
 
 ## Description
 App is created using React Vite template. I have used TypeScript on this project.
