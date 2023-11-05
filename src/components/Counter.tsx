@@ -18,7 +18,7 @@ const Counter = () => {
   return (
     <div className="counter">
       <h1>Counter App</h1>
-      <h1> {count}</h1>
+      <h1>{count}</h1>
       <br />
       <button onClick={decrement} disabled={!count}>
         Decrement
